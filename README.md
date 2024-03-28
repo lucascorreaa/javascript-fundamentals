@@ -1,1 +1,1 @@
-# javascrit-fundamentals
+# javascript-fundamentals
